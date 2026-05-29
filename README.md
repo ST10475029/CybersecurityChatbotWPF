@@ -1,4 +1,4 @@
-
+[![.NET Build](https://github.com/ST10475029/CybersecurityChatbotWPF/actions/workflows/dotnet.yml/badge.svg)](https://github.com/ST10475029/CybersecurityChatbotWPF/actions/workflows/dotnet.yml)
 # Cybersecurity Chatbot WPF
 
 A Windows Presentation Foundation (WPF) application that provides an interactive chatbot interface focused on cybersecurity topics and assistance.
